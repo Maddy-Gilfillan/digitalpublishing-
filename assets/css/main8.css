@@ -1,0 +1,17 @@
+
+
+/* Start here */
+
+a {
+	position: absolute;
+	right:0px;
+	text-decoration: none;
+}
+
+body {
+	padding-right: 400px;
+	padding-left: 400px;
+	padding-bottom: 400px;
+	padding-top: 200px;
+	border:200px dotted black;
+}

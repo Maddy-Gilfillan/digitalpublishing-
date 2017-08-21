@@ -1,0 +1,27 @@
+a {
+	position: absolute;
+	right:0px;
+	text-decoration: none;
+}
+
+
+p {
+
+	font-family: helvetica;
+	font-size:30px;
+	line-height:50px;
+	transform: rotate(180deg);
+	padding-right: 300px;
+	padding-left: 300px;
+	padding-top: 200px;
+	text-align: center;
+}
+
+div {
+	position: absolute;
+	font-size: 125px;
+	font-family:helvetica;
+	top: 350px;
+	right:100px;
+	left:125px;
+	color: magenta;

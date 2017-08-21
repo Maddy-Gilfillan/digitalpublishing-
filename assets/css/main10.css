@@ -1,0 +1,52 @@
+
+
+/* Start here */
+#link {
+	position: absolute;
+	right:0px;
+	text-decoration: none;
+}
+
+
+
+div {
+	text-align: center;
+}
+
+div {
+	font-size: 100px
+
+}
+
+div {
+	text-transform: uppercase;
+}
+
+div {
+	font-family: avenir;
+}
+
+div {
+	font-weight: bolder;
+}
+
+.fourth {
+	letter-spacing: 75px;
+}
+
+.third  {
+	letter-spacing: 50px;
+}
+
+.fifth {
+	letter-spacing: 50px;
+}
+
+.second {
+	letter-spacing: 25px;
+}
+
+.sixth {
+	letter-spacing: 25px;
+}
+

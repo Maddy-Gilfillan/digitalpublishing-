@@ -1,0 +1,34 @@
+a {
+	position: absolute;
+	right:0px;
+	text-decoration: none;
+}
+
+
+
+body {
+	text-align: center;
+}
+
+body {
+	font-family: sans-serif;
+}
+#second {
+	word-spacing: 42px;
+}
+
+#third {
+	word-spacing: 135px;
+}
+
+#fourth {
+	word-spacing: 230px;
+}
+
+#fifth1 {
+	word-spacing: 130px;
+}
+
+#fifth2 {
+	word-spacing: 150px;
+}

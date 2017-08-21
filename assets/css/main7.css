@@ -1,0 +1,26 @@
+
+
+/* Start here */
+a {
+	position: absolute;
+	right:0px;
+	text-decoration: none;
+}
+
+h1 {
+	padding-right: 400px;
+	padding-left: 400px;
+}
+
+#left {
+	float;left
+	; 
+}
+#right {
+		float: right
+
+		;
+		
+}
+
+

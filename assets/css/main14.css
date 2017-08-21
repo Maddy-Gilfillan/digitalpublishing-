@@ -1,0 +1,70 @@
+
+
+/* Start here */
+
+
+
+.pageline {
+    position: absolute;
+    right:0px;
+    text-decoration: none;
+
+}
+
+
+.sayyes{
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px magenta;
+
+}
+
+#sayyess{
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px magenta;
+
+}
+
+.beresponsible{
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px blue;
+
+}
+
+p{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px red;
+
+}
+
+a.repeat:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a.repeat:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a.repeat:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a.repeat:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+

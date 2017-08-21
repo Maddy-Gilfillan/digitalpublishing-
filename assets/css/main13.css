@@ -1,0 +1,49 @@
+
+a {
+    position: absolute;
+    right:0px;
+    text-decoration: none;
+}
+/* Start here */
+
+img {
+    max-height: 500px;
+    top: 50px;
+}
+
+#first {
+    text-align: center;
+    font-size: 100px;
+    font-family: impact;
+    color: purple;
+}
+
+#second {
+    position: absolute;
+    transform: rotate(270deg);
+    font-size: 100px;
+    font-family: impact;
+    color: purple;
+    top:325px;
+    right: 975px;
+
+}
+
+#third {
+    position: fixed;
+    transform: rotate(90deg);
+    font-size: 100px;
+    font-family: impact;
+    color: purple;
+    top:325px;
+    right: 65px;
+
+}
+
+#fourth {
+        position: absolute;
+        font-size: 30px;
+        right:480px;
+        top:480px;
+        color: white;
+}
